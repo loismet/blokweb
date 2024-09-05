@@ -38,11 +38,13 @@ https://upfront.nl/
 #### Screenshot(s) van de eerste pagina (small screen):
 
 Upfront home page 
+
  <img src="images/afbeelding1.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
 Upfront webshop pagina  
+
  <img src="images/afbeelding2.png" width="375px" alt="omschrijving van de pagina">
 
 </details>
