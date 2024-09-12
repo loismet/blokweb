@@ -18,7 +18,7 @@ Loïs Metzelaar
 
 #### Je startniveau:
 
-tussen blauw en rood in
+blauw
 
 #### Je focus:
 
@@ -33,19 +33,17 @@ surface plane
 
 ### Je opdracht:
 
-https://upfront.nl/
+https://trainmore.nl/personal-training/
 
 #### Screenshot(s) van de eerste pagina (small screen):
 
-Upfront home page 
-
- <img src="images/afbeelding1.png" width="375px" alt="omschrijving van de pagina">
+homepage
+<img src="images/afbeelding3.png" width="375px" alt="homepage">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
-Upfront webshop pagina  
-
- <img src="images/afbeelding2.png" width="375px" alt="omschrijving van de pagina">
+personal training pagina
+<img src="images/afbeelding4.png" width="375px" alt="memberships">
 
 </details>
 
@@ -56,7 +54,14 @@ Upfront webshop pagina
 
 ### Bevindingen
 
-Lijst met je bevindingen die in de test naar voren kwamen:
+screenreader werkt redelijk maar niet bij alle onderdelen duidelijk 
+met shift/tab worden de onderdelen waar je doorheen tabt rood om,ijnd
+de kopjes zijn over het algemeen goed verdeeld, maar er wordt erg veel gebruik gemaakt van h2tjes 
+de website is goed te bedienen op telefoon (knoppen op bepaalde plekken wel dicht bij elkaar)
+de images hebben niet overal de juiste alts
+De videos op de website worden automatisch afgespeelt deze kun je niet op pauze zetten (homepage)
+
+
 
 </details>
 
@@ -67,15 +72,16 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 
 ### de hele pagina:
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/helep.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu):
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="images/nav.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter):
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="images/dropdowns.png" width="375px" alt="breakdown van nog een dynamisch deel">
+  
 
 </details>
 
@@ -94,9 +100,9 @@ samen met je groepje opstellen
 
 | student 1      | student 2          | student 3    | student 4        |
 | -------------- | ------------------ | ------------ | ---------------- |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| HTML           | HTML               | HTML         | HTML             |
+| bewegende      | dit als er tijd is | nog een punt | dit wil ik zeker |
+| achtergrond    | ...                | ...          | ...              |
 
 ### Verslag van meeting
 
