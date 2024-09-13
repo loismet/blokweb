@@ -20,3 +20,6 @@
 /* JOUW STYLING */
 /****************/
 
+img {
+  max-width: 30em;
+}
