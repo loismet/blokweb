@@ -22,7 +22,7 @@ blauw
 
 #### Je focus:
 
-surface plane
+responsivenes
 
 </details>
 
